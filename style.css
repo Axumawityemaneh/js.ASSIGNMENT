@@ -1,0 +1,217 @@
+
+.main{
+    width: 100%;
+    background-color: white;
+    background-position: center;
+    height: 100%;
+}
+.navbar{
+width: 1200px;
+height: 75px;
+margin: auto;
+}
+.icon{
+width: 300px;
+float: left;
+height: 70px;
+}
+.log{
+color: aff7200;
+font-family: arial;
+padding-left: 15px;
+padding-top: 10px;
+}
+.menu{
+width: 800px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.ul{
+float: right;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.menu{
+width: 800px;
+float: right;
+right: 70px;
+}
+.ul li{
+list-style-type: none;
+margin-left: 40px;
+margin-top: 27px;
+font-size: 14px;
+}
+.ul lia {
+text-decoration: none;
+color: #aff;
+font-family: arial;
+transition: 0.4s ease-in-out;
+}
+.ul li a :hover {
+   font-family: arial;
+   width: 1200px;
+   height: auto;
+   color: #fff;
+   position: relative;
+}
+.CONT para{
+padding-left: 20px;
+padding-bottom: 25px;
+font-family: arial;
+letter-spacing: 1.2px;
+line-height: 30px;
+font-size: 15px;
+}
+.CONT .h1{
+letter-spacing: 1.2px;
+}
+.CONT span{
+    color: #772007;
+
+}
+.CONT.learn{
+    width: 160px;
+    height: 4px;
+    background: #ff77;
+    margin-bottom: 10px;
+    margin-left: 20px;
+font-size: 18px;
+border-radius: 10px;
+cursor: pointer;
+}
+.CONT.learn a{
+    text-decoration: none;
+    color: #000;
+    transition: 0.4s ease-in-out;
+}
+    .learn:hover{
+        background-color: #ff77;
+    }
+
+
+    .main{
+
+        padding: 20;
+        margin: 0;
+        box-sizing: content-box;
+        background-color: rgb(248, 143, 6);
+        }
+        
+        
+        
+        .main{
+        border-inline-end-style: solid;
+            width: 90%;
+            background-color: rgb(238, 223, 225);
+            border-radius: 100%;
+            color: black;
+            padding-left: 5%;
+            padding-right: 25%;
+            padding-bottom: 1%;
+        
+        }
+        .navbar{
+            width: 60%;
+            height: 10%;
+            background-color: rgb(216, 175, 186);
+            color: rgb(7, 7, 7);
+            margin-left: 4%;
+        padding-left: 5%;  
+        padding-right: 5%;
+        gap: 50%;
+        padding-bottom: 1%;
+        }
+        
+        .icon{
+        display: flex;
+        flex-flow: row;
+        color: rgb(27, 27, 29);
+        background-color: whitesmoke;
+        padding-left: 5%;  
+        padding-right: 35%;
+        gap: 3%;
+        padding-bottom: 1%;
+            }
+        
+        .img-a{
+            background-color: whitesmoke;
+        
+        border-radius: solid;
+        display: flex;
+        flex: row;
+        color: black;
+        padding-left: 5%;  
+        padding-right: 35%;
+        gap: 3%;
+        padding: 1%;
+        
+        
+        
+        }
+        .img-b{
+            background-color: whitesmoke;
+        
+            border-radius: solid;
+            display: flex;
+            flex: row;
+            color: black;
+            padding-left: 5%;  
+            padding-right: 35%;
+            gap: 3%;
+            padding-bottom: 1%;
+        
+        
+        }
+        .img-e{
+        background-color: whitesmoke;
+            border-radius: solid;
+            display: flex;
+            flex: row;
+            color: black;
+            padding-left: 5%;  
+        padding-right: 5%;
+        padding-bottom: 1%;
+        gap: 3%;
+        
+        }
+        
+        .cont{
+        background-color:whitesmoke;
+        width: 30%;
+        padding-left: 60%;
+        
+        
+        
+        
+        }
+        .inv{
+        background-color: whitesmoke;
+        padding-top: 1%;
+        
+        }
+        .botten{
+        padding-left: 10%;
+        background-color: whitesmoke;
+        
+        
+        
+        }
+        
+        
+        .table{
+        background-color: rgb(48, 48, 59);
+        color: antiquewhite;
+        padding-left: 4%;
+        
+        }
+
+
+
+
+
+
+
+
